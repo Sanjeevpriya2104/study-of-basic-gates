@@ -2,7 +2,7 @@
  
  RegisterNumber:212224040289
  
-### study-of-basic-gates
+STUDY-OF-BASIC-GATES
 
 **AIM:** 
 
